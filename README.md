@@ -1,1 +1,1 @@
-# Computer-Graphics
+# OpenGL code for line drawing
